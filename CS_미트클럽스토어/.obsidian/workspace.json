@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "eb153b414b5e2dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8685cb031cc2774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4322887133d666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯요구사항 확인-풀이 기반 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20269499c49f46ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯애플리케이션 테스트 관리-풀이 기반 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d7f653cb47110e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPP 외부평가/✅ 외부 평가 항목 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dd2e06bf65e1c33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7094650659ba13a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯화면 설계-풀이 기반 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0f99566d891e81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6762e5378418b931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "959172105724e128",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc8500ae394dce64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b780efb0702c9c51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "95d6bd3cc6bd96e1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "e13ef9c1e2edd167",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc09afa30578756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329fa4fe7b378815",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯애플리케이션 테스트 관리-풀이 기반 정리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6441088af76504f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯애플리케이션 테스트 관리-풀이 기반 정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05ce5de1c1ab3a6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57bef1159151d53c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IPP 외부평가/기출_예상문제/🎯애플리케이션 테스트 관리-풀이 기반 정리.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "20269499c49f46ca",
+  "lastOpenFiles": [
+    "IPP 외부평가/기출_예상문제/🎯요구사항 확인-풀이 기반 정리.md",
+    "IPP 외부평가/기출_예상문제/🎯제품 소프트웨어 패키징-풀이 기반 정리.md",
+    "IPP 외부평가/기출_예상문제/🎯화면 설계-풀이 기반 정리.md",
+    "IPP 외부평가/기출_예상문제/🎯SQL응용-풀이 기반 정리.md",
+    "IPP 외부평가/기출_예상문제/🎯SW 개발 보안 구축-풀이 기반 정리.md",
+    "IPP 외부평가/기출_예상문제/🎯애플리케이션 테스트 관리-풀이 기반 정리.md",
+    "IPP 외부평가/✅ 외부 평가 항목 정리.md",
+    "Spaces/필터 후.md",
+    "Spaces/필터 전.md",
+    "Pasted image 20240131164617.png",
+    "Pasted image 20240131164603.png",
+    "Pasted image 20240131164347.png",
+    "Pasted image 20240131164244.png",
+    "IPP 외부평가/기출_예상문제/무제 파일.md",
+    "IPP 외부평가/기출_예상문제/🎯WS.md",
+    "IPP 외부평가/통합 구현.md",
+    "DB/알쓸신잡 테이블.md",
+    "IPP 외부평가/제품 소프트웨어 패키징.md",
+    "IPP 외부평가/기출_예상문제",
+    "IPP 외부평가/인터페이스 구현.md",
+    "IPP 외부평가/서버프로그램 구현.md",
+    "IPP 외부평가/데이터 입출력 구현.md",
+    "IPP 외부평가/.md",
+    "Pasted image 20231214110110.png",
+    "2023-12-27.md",
+    "무제 파일.canvas",
+    "Spaces/Home",
+    "Spaces",
+    "메모/데이터 이상한 회원 찾기.md",
+    "Pasted image 20231220131745.png",
+    "Pasted image 20231214110100.png",
+    "Pasted image 20231214092159.png",
+    "IPP 외부평가",
+    "DB",
+    "메모/미트클럽스토어(주).md",
+    "메모",
+    "SQL"
+  ]
+}
